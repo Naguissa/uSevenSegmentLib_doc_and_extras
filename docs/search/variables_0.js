@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_5finstance',['_instance',['../classuSevenSegmentLib.html#ab29b65f62115a35c3d45669021b245ec',1,'uSevenSegmentLib']]]
+  ['instance_17',['instance',['../classuSevenSegmentLib.html#ab89b9cb738919fefc60eabd590ba8c89',1,'uSevenSegmentLib']]]
 ];
