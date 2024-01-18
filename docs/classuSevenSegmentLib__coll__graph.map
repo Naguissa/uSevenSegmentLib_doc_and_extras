@@ -1,3 +1,4 @@
 <map id="uSevenSegmentLib" name="uSevenSegmentLib">
-<area shape="rect" id="node1" title="Really tiny library to basic 7 segments displays." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="Node000001" title="Really tiny library to basic 7 segments displays." alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="167,12,179,18,153,25,152,20,173,18,165,17"/>
 </map>
